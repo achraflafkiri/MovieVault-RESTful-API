@@ -1,5 +1,5 @@
 
-# Netflix Clone API
+# MovieValut RESTful API
 
 open source API for movies app build by Node JS / Express JS / Mongo DB  with another technologies like : 
  - JWT -> Json Web Token (instead sessions)
