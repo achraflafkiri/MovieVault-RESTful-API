@@ -1,9 +1,12 @@
 
 # MovieValut RESTful API
 
-open source API for movies app build by Node JS / Express JS / Mongo DB  with another technologies like : 
- - JWT -> Json Web Token (instead sessions)
- - Bcrypt -> Data Encryption
+The app is a RESTful API built using Node.js.
+The main functionality of the app is to manage a collection of music files, which users can create, read, update, and delete (CRUD operations) through the API endpoints.
+The app also provides user authentication and authorization through a login and signup feature, where users can create an account and login to access the protected API endpoints.
+The app allows users to share music files with their friends through the API endpoints.
+The app is named "MovieVault-RESTful-API", which suggests that it may also have a feature for managing and storing movie files, although this is not mentioned in the provided description.
+
     
 
 ## Installation
